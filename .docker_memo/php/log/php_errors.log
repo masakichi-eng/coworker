@@ -1,0 +1,5 @@
+[31-May-2021 16:02:21 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 17
+[31-May-2021 16:46:46 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'プログラミング教材一' (T_STRING) in /var/www/html/user/action/register.php on line 12
+[31-May-2021 16:47:22 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'プログラミング教材一' (T_STRING) in /var/www/html/user/action/register.php on line 12
+[31-May-2021 17:13:29 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 56
+[31-May-2021 19:02:33 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 56
